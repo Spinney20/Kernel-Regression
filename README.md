@@ -1,5 +1,4 @@
-
-# TASK - 2 KERNEL REGRESSION
+KERNEL REGRESSION
 - linear_kernel.m - Computes the dot product between two vectors - linear
 kernel - to be used in build_kernel function
 
